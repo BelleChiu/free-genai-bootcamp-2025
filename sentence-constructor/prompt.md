@@ -27,6 +27,9 @@ The formatted output will generally contain three parts:
 - the table should only include nouns, verbs, adverbs, adjectives
 - the table of vocabulary should only have the following columns: Japanese, Romaji, English, Tranditional Chinese
 - Do not provide particles in vocabulary table, student needs to figure the correct particles to use
+- ensure there are no repeats. eg. if miru verb is repeat twice, show it only once.
+- if there is more than one version of a word, show the most common example
+
 
 ### Sentence Structure
 - do not provide particles in the sentence structure
