@@ -29,7 +29,32 @@ The formatted output will generally contain three parts:
 - Do not provide particles in vocabulary table, student needs to figure the correct particles to use
 
 ### Sentence Structure
--do not provide particles in the sentence structure
+- do not provide particles in the sentence structure
+- do not provide tenses or conjugations in the sentence
+- remember to consider beginner level sentence structures
+
+Here is an example of simple sentence structures
+- I am a student. → [Subject] + [Description/Adjective]
+- This book is interesting. → [Subject] + [Description/Adjective]
+- There is a dog at the park. → [Location] + [Subject] + [Verb]
+- There is a book on the desk. → [Location] + [Subject] + [Verb]
+- I study Japanese. → [Subject] + [Object] + [Verb]
+- He eats breakfast. → [Subject] + [Object] + [Verb]
+- What is this? → [Subject] + [Question Word] + [Verb]
+- What time do you go to sleep? → [Subject] + [Time] + [Verb]
+- I wake up at 7 a.m. → [Time] + [Verb]
+- Tomorrow, I will meet my friend. → [Time] + [Object] + [Verb]
+-I like cats. → [Subject] + [Object] + [Adjective]
+- He dislikes vegetables. → [Subject] + [Object] + [Adjective]
+- I can swim. → [Subject] + [Verb] + [Auxiliary Verb]
+- He can speak Japanese. → [Subject] + [Object] + [Verb] + [Auxiliary Verb]
+- I want to eat sushi. → [Subject] + [Object] + [Verb] + [Desire]
+- He wants to watch a movie.→ [Subject] + [Object] + [Verb (stem form)] + [Desire]
+- I study at the library. → [Subject] + [Location] + [Verb]
+- My mom cooks in the kitchen. → [Subject] + [Location] + [Verb]
+- I have a car. → [Subject] + [Object] + [Verb]
+- She has a pen. → [Subject] + [Object] + [Verb]
+
 
 ### Clues and Considerations
 - try and provide a non-nested bullted list
